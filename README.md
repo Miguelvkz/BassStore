@@ -14,84 +14,89 @@ uso do Bootstrap (grid, cards, containers, botões etc.)
 organização de pastas
 
 integração de imagens e componentes visuais
-```
-📁 Estrutura do projeto
+<details>
+  <summary><strong>📁 Estrutura do projeto</strong></summary>
+
 BassStore-main
 │── compras/
-│   └── compras.html
+│ └── compras.html
 │
 │── contato/
-│   ├── contato.html
-│   └── imagens/
-│       ├── 1.jpg
-│       ├── 2.jpg
-│       ├── 2.webp
-│       ├── 3.jpg
-│       ├── abrir janela.png
-│       ├── bassllogo-removebg-preview.png
-│       ├── branq-removebg-preview.png
-│       ├── bz.png
-│       ├── carrinho.png
-│       ├── fone1-removebg-preview.png
-│       ├── fone2-removebg-preview.png
-│       ├── fone3-removebg-preview.png
-│       ├── fone4-removebg-preview.png
-│       ├── fone5-removebg-preview.png
-│       ├── fone6-removebg-preview.png
-│       ├── insta.png
-│       ├── logo.png
-│       ├── tralaleo-removebg-preview.png
-│       ├── tw-removebg-preview (1).png
-│       ├── verme-removebg-preview.png
-│       ├── x (2).png
-│       └── yt-removebg-preview.png
+│ ├── contato.html
+│ └── imagens/
+│ ├── 1.jpg
+│ ├── 2.jpg
+│ ├── 2.webp
+│ ├── 3.jpg
+│ ├── abrir janela.png
+│ ├── bassllogo-removebg-preview.png
+│ ├── branq-removebg-preview.png
+│ ├── bz.png
+│ ├── carrinho.png
+│ ├── fone1-removebg-preview.png
+│ ├── fone2-removebg-preview.png
+│ ├── fone3-removebg-preview.png
+│ ├── fone4-removebg-preview.png
+│ ├── fone5-removebg-preview.png
+│ ├── fone6-removebg-preview.png
+│ ├── insta.png
+│ ├── logo.png
+│ ├── tralaleo-removebg-preview.png
+│ ├── tw-removebg-preview (1).png
+│ ├── verme-removebg-preview.png
+│ ├── x (2).png
+│ └── yt-removebg-preview.png
 │
 │── home/
-│   ├── home.html
-│   └── Thumbs.db
+│ ├── home.html
+│ └── Thumbs.db
 │
 │── imagens/
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   ├── 2.webp
-│   ├── 3.avif
-│   ├── 3.jpg
-│   ├── abrir janela.png
-│   ├── bassllogo-removebg-preview.png
-│   ├── branq-removebg-preview.png
-│   ├── bz.png
-│   ├── carrinho.png
-│   ├── e-mail.png
-│   ├── fone1-removebg-preview.png
-│   ├── fone2-removebg-preview.png
-│   ├── fone3-removebg-preview.png
-│   ├── fone4-removebg-preview.png
-│   ├── fone5-removebg-preview.png
-│   ├── fone6-removebg-preview.png
-│   ├── fone7-removebg-preview.png
-│   ├── fone8-removebg-preview.png
-│   ├── foneee.png
-│   ├── insta.png
-│   ├── logo.png
-│   ├── p1.webp
-│   ├── p2.webp
-│   ├── p3.webp
-│   ├── p4.jpg
-│   ├── p4.webp
-│   ├── p5.jpg
-│   ├── p6.jpg
-│   ├── p6.webp
-│   ├── telefone.png
-│   ├── tralaleo-removebg-preview.png
-│   ├── tw-removebg-preview (1).png
-│   ├── Twitter_X_Icon_PNG-removebg-preview.png
-│   ├── verme-removebg-preview.png
-│   ├── x (2).png
-│   ├── youtube.png
-│   └── yt-removebg-preview.png
+│ ├── 1.jpg
+│ ├── 2.jpg
+│ ├── 2.webp
+│ ├── 3.avif
+│ ├── 3.jpg
+│ ├── abrir janela.png
+│ ├── bassllogo-removebg-preview.png
+│ ├── branq-removebg-preview.png
+│ ├── bz.png
+│ ├── carrinho.png
+│ ├── e-mail.png
+│ ├── fone1-removebg-preview.png
+│ ├── fone2-removebg-preview.png
+│ ├── fone3-removebg-preview.png
+│ ├── fone4-removebg-preview.png
+│ ├── fone5-removebg-preview.png
+│ ├── fone6-removebg-preview.png
+│ ├── fone7-removebg-preview.png
+│ ├── fone8-removebg-preview.png
+│ ├── foneee.png
+│ ├── insta.png
+│ ├── logo.png
+│ ├── p1.webp
+│ ├── p2.webp
+│ ├── p3.webp
+│ ├── p4.jpg
+│ ├── p4.webp
+│ ├── p5.jpg
+│ ├── p6.jpg
+│ ├── p6.webp
+│ ├── telefone.png
+│ ├── tralaleo-removebg-preview.png
+│ ├── tw-removebg-preview (1).png
+│ ├── Twitter_X_Icon_PNG-removebg-preview.png
+│ ├── verme-removebg-preview.png
+│ ├── x (2).png
+│ ├── youtube.png
+│ └── yt-removebg-preview.png
 │
 └── README.md
-```
+
+bash
+Copiar código
+
+</details>
 🔧 Tecnologias usadas
 
 HTML5
