@@ -179,8 +179,7 @@ integração de imagens e componentes visuais
 
 </details>
 
-bash
-Copiar código
+
 
 </details>
 HTML5
