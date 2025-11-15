@@ -1,125 +1,69 @@
-BassStore 
+# 🎧 BassStore
 
-Loja virtual feita para praticar HTML, CSS e Bootstrap.
-O projeto simula páginas reais de um e-commerce simples, com home, contato e área de compras.
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-🎯 Objetivo do projeto
+Projeto de estudo de uma loja virtual (e-commerce) estática, focado na prática e aplicação de **HTML**, **CSS** e, principalmente, do framework **Bootstrap 5**.
 
-Aprender e treinar:
+---
 
-estrutura básica de um site
+## ✨ Funcionalidades
 
-uso do Bootstrap (grid, cards, containers, botões etc.)
+O projeto simula as páginas essenciais de um e-commerce simples:
 
-organização de pastas
+* **Página Inicial:** Apresenta os produtos em destaque utilizando o sistema de cards e grid do Bootstrap.
+* **Página de Compras:** Layout para visualização de mais produtos.
+* **Página de Contato:** Formulário simples de contato.
+* **Design Responsivo:** O site se adapta a diferentes tamanhos de tela (desktop e mobile).
 
-integração de imagens e componentes visuais
+---
 
-<<details>
-<summary>📁 Estrutura do Projeto BassStore (Clique para expandir)</summary>
+## 🛠️ Tecnologias Utilizadas
+
+* **HTML5:** Para a estrutura semântica do site.
+* **CSS3:** Para estilizações personalizadas.
+* **Bootstrap 5:** Utilizado como principal framework para layout, componentes (cards, botões, containers) e responsividade.
+
+---
+
+<details>
+<summary>📁 Estrutura de Arquivos</summary>
+<br>
 
 * **BassStore-main/**
     * **compras/**
-        * compras.html
+        * `compras.html`
     * **contato/**
-        * contato.html
+        * `contato.html`
         * **imagens/**
-            * 1.jpg
-            * 2.jpg
-            * 2.webp
-            * 3.jpg
-            * abrir janela.png
-            * bassllogo-removebg-preview.png
-            * branq-removebg-preview.png
-            * bz.png
-            * carrinho.png
-            * fone1-removebg-preview.png
-            * fone2-removebg-preview.png
-            * fone3-removebg-preview.png
-            * fone4-removebg-preview.png
-            * fone5-removebg-preview.png
-            * fone6-removebg-preview.png
-            * insta.png
-            * logo.png
-            * Thumbs.db
-            * tralaleo-removebg-preview.png
-            * tw-removebg-preview (1).png
-            * verme-removebg-preview.png
-            * x (2).png
-            * yt-removebg-preview.png
+            * `[...] (23 arquivos de imagem .jpg, .png, .webp)`
     * **home/**
-        * home.html
-        * Thumbs.db
-    * **imagens/**
-        * 1.jpg
-        * 2.jpg
-        * 2.webp
-        * 3.avif
-        * 3.jpg
-        * abrir janela.png
-        * bassllogo-removebg-preview.png
-        * branq-removebg-preview.png
-        * bz.png
-        * carrinho.png
-        * e-mail.png
-        * fone1-removebg-preview.png
-        * fone2-removebg-preview.png
-        * fone3-removebg-preview.png
-        * fone4-removebg-preview.png
-        * fone5-removebg-preview.png
-        * fone6-removebg-preview.png
-        * fone7-removebg-preview.png
-        * fone8-removebg-preview.png
-        * foneee.png
-        * insta.png
-        * logo.png
-        * p1.webp
-        * p2.webp
-        * p3.webp
-        * p4.jpg
-        * p4.webp
-        * p5.jpg
-        * p6.jpg
-        * p6.webp
-        * telefone.png
-        * Thumbs.db
-        * tralaleo-removebg-preview.png
-        * tw-removebg-preview (1).png
-        * Twitter_X_Icon_PNG-removebg-preview.png
-        * verme-removebg-preview.png
-        * x (2).png
-        * youtube.png
-        * yt-removebg-preview.png
-    * README.md
+        * `home.html`
+        * `Thumbs.db` (Arquivo de cache do Windows, pode ser adicionado ao .gitignore)
+    * **imagens/** (raiz)
+        * `[...] (38 arquivos de imagem .jpg, .png, .avif, .webp)`
+    * `README.md`
 
 </details>
 
+---
 
-</details>
-HTML5
+## 🚀 Como Rodar o Projeto
 
-CSS3
+Por ser um projeto 100% estático, não é necessária instalação de dependências.
 
-Bootstrap 5 (principal foco do aprendizado)
+1.  Clone o repositório:
+    ```bash
+    git clone [https://github.com/Miguelvkz/BassStore.git](https://github.com/Miguelvkz/BassStore.git)
+    ```
+2.  Abra o arquivo `home/home.html` em seu navegador de preferência.
 
-🚀 Como rodar
+---
 
-Baixe ou clone o repositório
+## 📌 Status do Projeto
 
-git clone https://github.com/Miguelvkz/BassStore.git
+Projeto concluído como portfólio de estudo.
 
-
-Abra o arquivo:
-
-home/home.html
-
-
-Navegue entre as páginas normalmente.
-
-📌 Observações
-
-Projeto 100% estático
-
-Criado para estudo e prática
-
-Pode ser evoluído com JS, carrinho funcional, animações etc.
+* **100% Estático:** Não há backend, JavaScript funcional ou processamento de compras.
+* **Próximos Passos (Sugestões):** O projeto pode ser evoluído com a adição de JavaScript para um carrinho funcional, animações ou a integração com um backend.
