@@ -17,84 +17,167 @@ integração de imagens e componentes visuais
 
 <details>
   <summary><strong>📁 Estrutura do projeto</strong></summary>
-
 <br>
 
-BassStore-main
-├── compras/
-│ └── compras.html
-│
-├── contato/
-│ ├── contato.html
-│ └── imagens/
-│ ├── 1.jpg
-│ ├── 2.jpg
-│ ├── 2.webp
-│ ├── 3.jpg
-│ ├── abrir janela.png
-│ ├── bassllogo-removebg-preview.png
-│ ├── branq-removebg-preview.png
-│ ├── bz.png
-│ ├── carrinho.png
-│ ├── fone1-removebg-preview.png
-│ ├── fone2-removebg-preview.png
-│ ├── fone3-removebg-preview.png
-│ ├── fone4-removebg-preview.png
-│ ├── fone5-removebg-preview.png
-│ ├── fone6-removebg-preview.png
-│ ├── insta.png
-│ ├── logo.png
-│ ├── tralaleo-removebg-preview.png
-│ ├── tw-removebg-preview (1).png
-│ ├── verme-removebg-preview.png
-│ ├── x (2).png
-│ └── yt-removebg-preview.png
-│
-├── home/
-│ ├── home.html
-│ └── Thumbs.db
-│
-├── imagens/
-│ ├── 1.jpg
-│ ├── 2.jpg
-│ ├── 2.webp
-│ ├── 3.avif
-│ ├── 3.jpg
-│ ├── abrir janela.png
-│ ├── bassllogo-removebg-preview.png
-│ ├── branq-removebg-preview.png
-│ ├── bz.png
-│ ├── carrinho.png
-│ ├── e-mail.png
-│ ├── fone1-removebg-preview.png
-│ ├── fone2-removebg-preview.png
-│ ├── fone3-removebg-preview.png
-│ ├── fone4-removebg-preview.png
-│ ├── fone5-removebg-preview.png
-│ ├── fone6-removebg-preview.png
-│ ├── fone7-removebg-preview.png
-│ ├── fone8-removebg-preview.png
-│ ├── foneee.png
-│ ├── insta.png
-│ ├── logo.png
-│ ├── p1.webp
-│ ├── p2.webp
-│ ├── p3.webp
-│ ├── p4.jpg
-│ ├── p4.webp
-│ ├── p5.jpg
-│ ├── p6.jpg
-│ ├── p6.webp
-│ ├── telefone.png
-│ ├── tralaleo-removebg-preview.png
-│ ├── tw-removebg-preview (1).png
-│ ├── Twitter_X_Icon_PNG-removebg-preview.png
-│ ├── verme-removebg-preview.png
-│ ├── x (2).png
-│ ├── youtube.png
-│ └── yt-removebg-preview.png
-│
-└── README.md
+<code>BassStore-main/</code>
+<br>
+
+&nbsp;&nbsp;&nbsp; ├── <details>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <summary>📁 compras/</summary>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; └── 📄 compras.html
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; </details>
+
+&nbsp;&nbsp;&nbsp; ├── <details>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <summary>📁 contato/</summary>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 contato.html
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; └── <details>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <summary>📁 imagens/</summary>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 1.jpg
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 2.jpg
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 2.webp
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 3.jpg
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 abrir janela.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 bassllogo-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 branq-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 bz.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 carrinho.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone1-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone2-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone3-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone4-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone5-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone6-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 insta.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 logo.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 tralaleo-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 tw-removebg-preview (1).png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 verme-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 x (2).png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; └── 📄 yt-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </details>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; </details>
+
+&nbsp;&nbsp;&nbsp; ├── <details>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <summary>📁 home/</summary>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 home.html
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; └── 📄 Thumbs.db
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; </details>
+
+&nbsp;&nbsp;&nbsp; ├── <details>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <summary>📁 imagens/ (raiz)</summary>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 1.jpg
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 2.jpg
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 2.webp
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 3.avif
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 3.jpg
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 abrir janela.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 bassllogo-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 branq-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 bz.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 carrinho.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 e-mail.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone1-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone2-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone3-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone4-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone5-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone6-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone7-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 fone8-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 foneee.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 insta.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 logo.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 p1.webp
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 p2.webp
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 p3.webp
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 p4.jpg
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 p4.webp
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 p5.jpg
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 p6.jpg
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 p6.webp
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 telefone.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 tralaleo-removebg-preview.png
+&nbsp;&Snbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 tw-removebg-preview (1).png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 Twitter_X_Icon_PNG-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 verme-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 x (2).png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ├── 📄 youtube.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; └── 📄 yt-removebg-preview.png
+&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; </details>
+
+&nbsp;&nbsp;&nbsp; └── 📄 README.md
+
+</details>
 
 bash
 Copiar código
