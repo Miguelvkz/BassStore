@@ -14,15 +14,17 @@ uso do Bootstrap (grid, cards, containers, botões etc.)
 organização de pastas
 
 integração de imagens e componentes visuais
-```
+
 <details>
   <summary><strong>📁 Estrutura do projeto</strong></summary>
 
+<br>
+
 BassStore-main
-│── compras/
+├── compras/
 │ └── compras.html
 │
-│── contato/
+├── contato/
 │ ├── contato.html
 │ └── imagens/
 │ ├── 1.jpg
@@ -48,11 +50,11 @@ BassStore-main
 │ ├── x (2).png
 │ └── yt-removebg-preview.png
 │
-│── home/
+├── home/
 │ ├── home.html
 │ └── Thumbs.db
 │
-│── imagens/
+├── imagens/
 │ ├── 1.jpg
 │ ├── 2.jpg
 │ ├── 2.webp
@@ -95,11 +97,9 @@ BassStore-main
 └── README.md
 
 bash
-
+Copiar código
 
 </details>
-🔧 Tecnologias usadas
-```
 HTML5
 
 CSS3
